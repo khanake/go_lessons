@@ -1,3 +1,4 @@
+// if について
 package main
 
 import (
